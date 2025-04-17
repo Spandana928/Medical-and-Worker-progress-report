@@ -14,13 +14,17 @@ The implementation ensures the content **visually matches the original PDFs**, w
 
 ## 📁 Project Structure
 
-medical-worker-report/ ├── index.html # Medical & Travel Expense Request ├── worker-report.html # Worker Progress Report ├── css/ │ └── styles.css # Shared styling for both pages ├── js/ │ ├── medical-data.js # (Optional: to load dynamic table data) │ └── progress-data.js # (Optional: for future dynamic logic) ├── assets/ # (Optional: logo or PDF icons) └── README.md
+medical-worker-report/
+├── index.html # Medical & Travel Expense Request 
+├── worker-report.html # Worker Progress Report 
+├── css/
+│ └── styles.css # Shared styling for both pages 
+├── js/ 
+   ├── medical-data.js # (Optional: to load dynamic table data) 
+   └── progress-data.js # (Optional: for future dynamic logic) 
+   ├── assets/ # (Optional: logo or PDF icons)
+   └── README.md
 
-yaml
-Copy
-Edit
-
----
 
 ## ✨ Features
 
@@ -46,8 +50,7 @@ Edit
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/medical-worker-report.git
-   cd medical-worker-report
+   https://github.com/Spandana928/Medical-and-Worker-progress-report
 Open either index.html or worker-report.html in your browser.
 
 No build tools or installations required.
@@ -55,7 +58,8 @@ No build tools or installations required.
 🎥 Demo Videos
 Each HTML file is explained via a short 2-minute walkthrough video, covering:
 
-Task summary
+
+
 
 Assumptions
 
