@@ -57,7 +57,7 @@ No build tools or installations required.
 
 🎥 Demo Videos
 Each HTML file is explained via a short 2-minute walkthrough video, covering:
-https://drive.google.com/file/d/1JHMXYCau9FinqhubCQkqlcyc58Ve9rb7/view?usp=drive_link
+https://drive.google.com/file/d/1Jh3qQovo6NMNClozHXrkqptA1_ywf_i4/view?usp=drive_link
 
 
 Assumptions
